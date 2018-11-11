@@ -1,0 +1,45 @@
+.card-title
+ {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff; 
+    text-align: center;
+    
+    vertical-align: middle;
+}
+
+.box
+{
+    border-style: solid;
+    border-color: #dddddd;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: #ffffff;
+}
+.navbar-custom {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff; 
+    text-align: center;
+    vertical-align: middle;
+}
+.jumbotron-fluid{
+    background-image: url('../images/bg.png');
+}
+.color{
+    color:#4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+    
+    .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        border-top: #4aaaa5;
+        background-color: darkgrey;
+        border-top-style: solid;
+  }
+  
